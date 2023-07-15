@@ -9,6 +9,5 @@ in lung tumor classification. The techniques used are:
 5. K-Mean + SMOTE.
 
 In order to run the model you need the dataset of lung CT from this link:
-https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset
-And also you need to gather some CT scans for predictions from:
+https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset. And also you need to gather some CT scans for predictions from:
 https://radiopaedia.org/cases?lang=us
